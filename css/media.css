@@ -1,0 +1,12 @@
+@media all and (max-width: 768px) {
+    .bodytext {
+        font-size: 5vmin;
+    }
+    .demotext {
+      
+    
+    }
+    .textt p{
+        display: none;
+    }
+}
